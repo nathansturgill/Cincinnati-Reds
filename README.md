@@ -30,3 +30,18 @@ The Reds played in the NL West division from 1969 to 1993, before joining the Ce
 
 ![Elly De La Cruz](image.png)
 
+### Go Reds
+``` python
+r = "Go Reds!"
+print r
+```
+`reds` `are` `back`
+
+### Post Season (inline html)
+<dl>
+  <dt>Post Season</dt>
+  <dd>The Reds are looking to improve on their .500 record from last year and make a run for the playoff this year.</dd>
+
+### Youtube Highlights
+[![2023 Reds Season Recap](http://img.youtube.com/vi/xSfaGeaK8oo/0.jpg)](http://www.youtube.com/watch?v=xSfaGeaK8oo)
+
