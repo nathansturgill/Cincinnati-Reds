@@ -12,17 +12,21 @@ The Reds played in the NL West division from 1969 to 1993, before joining the Ce
 4. 1990 reds
 5. 1973 reds
 
-#### Best Reds Players (unorderded list)
+### Best Reds Players (unorderded list)
 - Pete Rose
 - Johnny Bench
 - Joe Morgan
 - Joey Votto
 - Brandon Phillips
 
-##### Cincinnati Reds Website
+### Cincinnati Reds Website
 <https://www.mlb.com/reds>
 
-###### Image Highlights
-<iframe src="https://gifer.com/embed/Dc2Z" width=480 height=268.800 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-
+### Image Highlights
 ![RedsGif](Dc2Z.gif)
+
+
+![Upsetbrewers fan](A9VM.gif)
+
+![Elly De La Cruz](image.png)
+
